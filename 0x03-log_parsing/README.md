@@ -24,7 +24,7 @@ Write a script that reads stdin line by line and computes metrics:
 
 ## Sample code
 0-generator.py
-```
+```python
 #!/usr/bin/python3
 import random
 import sys
