@@ -23,7 +23,7 @@ Write a method that determines if all the boxes can be opened.
 * The first box `boxes[0]` is unlocked
 * Return `True` if all boxes can be opened, else return `False`
 
-# Sample code
+## Sample code
 main_0.py
 ```python
 #!/usr/bin/python3
