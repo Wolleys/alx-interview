@@ -3,6 +3,3 @@
 
 # Byte-compiled
 __pycache__/
-
-# Package module
-node_modules/
