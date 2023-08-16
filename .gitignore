@@ -1,5 +1,6 @@
 # Ignore all main files
 *main.py
+main_*.py
 
 # Byte-compiled
 __pycache__/
